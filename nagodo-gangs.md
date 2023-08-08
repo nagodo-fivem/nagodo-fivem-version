@@ -1,4 +1,4 @@
 # v1.0.0
-- Added din mor
+- Release
 
 ### Download from https://keymaster.fivem.net/assets
