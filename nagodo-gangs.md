@@ -1,3 +1,7 @@
+# v1.0.2
+- Added a command to show zone progress
+
+### Download from https://keymaster.fivem.net/assets
 # v1.0.1
 - Added option to only show zones to gang members
 - Fixed some bugs
