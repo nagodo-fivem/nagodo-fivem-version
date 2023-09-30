@@ -1,3 +1,6 @@
+# v1.0.3
+- Fixed stash for ox_inventory 
+
 # v1.0.2
 - Added a command to show zone progress
 
